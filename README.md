@@ -128,4 +128,4 @@ MIT License
 5. Create a Pull Request
 
 ## 📞 Support
-For support, email your-email@example.com or create an issue in the repository.
+For support, email your-jainsatyam26@gmail.com or create an issue in the repository.
